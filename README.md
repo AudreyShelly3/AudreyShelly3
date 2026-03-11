@@ -29,10 +29,9 @@ I am passionate about protecting digital systems and learning how to detect and 
 ---
 
 ## 🚀Projects
-- Password Strength Checker
-- Weather Dashboard
-- Task Manager Web App
-- Cybersecurity Awareness Website
+- CyberPersona Lens
+- Anaemia Prediction System
+- Client-Server Tic-Tac-Toe
 
 ---
 
