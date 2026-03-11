@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there, I'm Audrey👋
 
-<!--
-**AudreyShelly3/AudreyShelly3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Graduate  
+🔐 Future Cybersecurity Analyst  
+📍 Based in Australia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I recently completed a Bachelor of Information Technology and I'm currently pursuing a Master's in Cybersecurity.  
+I am passionate about protecting digital systems and learning how to detect and prevent cyber threats.
+
+---
+
+## 💻Skills
+- Python
+- Networking
+- HTML / CSS / JavaScript
+- Cybersecurity fundamentals
+
+---
+
+## 📚Current Learning
+- Penetration Testing
+- Network Security
+- Web Development
+- Ethical Hacking
+
+---
+
+## 🚀Projects
+- Password Strength Checker
+- Weather Dashboard
+- Task Manager Web App
+- Cybersecurity Awareness Website
+
+---
+
+## 📫Connect With Me
+LinkedIn: https://www.linkedin.com/in/audrey-mhenyu-270b48282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Email: audreymhenyu26@gmail.com
